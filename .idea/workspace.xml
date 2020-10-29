@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb47b52-11a6-4002-b900-add80a2d7ec4" name="Default Changelist" comment="Change to readme">
+    <list default="true" id="cdb47b52-11a6-4002-b900-add80a2d7ec4" name="Default Changelist" comment="Brian Conflict">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603987343763</updated>
-      <workItem from="1603987345800" duration="3333000" />
+      <workItem from="1603987345800" duration="4165000" />
     </task>
     <task id="LOCAL-00001" summary="Change to readme">
       <created>1603991870765</created>
@@ -73,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603991870765</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Brian Conflict">
+      <created>1603994375102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603994375102</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,17 +100,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change to readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change to readme" />
+    <MESSAGE value="Brian Conflict" />
+    <option name="LAST_COMMIT_MESSAGE" value="Brian Conflict" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3800" y="-151" key="MultipleFileMergeDialog" timestamp="1603991880525">
+    <state x="3800" y="-151" key="MultipleFileMergeDialog" timestamp="1603994590810">
       <screen x="1536" y="-617" width="3840" height="1577" />
     </state>
-    <state x="3800" y="-151" key="MultipleFileMergeDialog/5376.-1035.1440.2537/1536.-617.3840.1577/0.23.1536.937@1536.-617.3840.1577" timestamp="1603991880525" />
-    <state x="3768" y="-190" key="Vcs.Push.Dialog.v2" timestamp="1603991872456">
+    <state x="3800" y="-151" key="MultipleFileMergeDialog/5376.-1035.1440.2537/1536.-617.3840.1577/0.23.1536.937@1536.-617.3840.1577" timestamp="1603994590810" />
+    <state x="3768" y="-190" key="Vcs.Push.Dialog.v2" timestamp="1603994611250">
       <screen x="1536" y="-617" width="3840" height="1577" />
     </state>
-    <state x="3768" y="-190" key="Vcs.Push.Dialog.v2/5376.-1035.1440.2537/1536.-617.3840.1577/0.23.1536.937@1536.-617.3840.1577" timestamp="1603991872456" />
+    <state x="3768" y="-190" key="Vcs.Push.Dialog.v2/5376.-1035.1440.2537/1536.-617.3840.1577/0.23.1536.937@1536.-617.3840.1577" timestamp="1603994611250" />
     <state x="661" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603988053247">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
