@@ -1,2 +1,4 @@
 # git-workshop
-A repo to use with git workshops.
+A REPO to use with git workshops.
+
+## Try to find some conflicts
